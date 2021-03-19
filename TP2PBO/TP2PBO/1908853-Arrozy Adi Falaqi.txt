@@ -1,0 +1,11 @@
+   Saya Arrozy Adi Falaq mengerjakan evaluasi Tugas Praktikum 2
+                           dalam mata kuliah DPBO
+                     untuk keberkahanNya maka saya tidak
+                    melakukan kecurangan seperti yang telah
+                          dispesifikasikan. Aamiin.
+
+Kesusahan:
+- Mencari kode di internet untuk connect ke database
+- Membuat Desain Yang Bagus 
+
+Hal Baru yang dipelajari adalah penggunaan connector database dalam java dan penggunaan IDE Netbeans
